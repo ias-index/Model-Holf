@@ -1,0 +1,70 @@
+.botaoC{
+    background-color: darkred;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer; 
+    margin-left: 5%;
+    font-style: italic;
+    transition: 0.5s;   
+  }
+  .botaoC:hover {
+    background-color:rgb(98, 4, 4) ;
+  }
+
+
+  .botaoL{
+    background-color: darkred;
+    color: #fff; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer; 
+    margin-left: 3%;
+    font-style: italic;
+    margin-top: 4%;
+    transition: 0.5s;
+  }
+  
+  .botaoL:hover {
+    background-color: rgb(98, 4, 4);
+  }
+
+
+  .botaoS{
+    background-color: darkred;
+    color: #fff;
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 5px;
+    font-size: 16px; 
+    cursor: pointer; 
+    margin-left: 5%;
+    font-style: italic;
+    margin-top: 8%;
+    transition: 0.5s;
+  }
+  .botaoS:hover {
+    background-color: rgb(98, 4, 4);
+  }
+
+
+.botaoM{
+    background-color: darkred;
+    color: #fff; 
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 5%;
+    font-style: italic;
+    transition: 0.5s;
+
+  }
+.botaoM:hover {
+    background-color:rgb(98, 4, 4);
+  }

@@ -1,0 +1,83 @@
+body {
+  background-image: url(HOWF.jpg);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+#register {
+  color: rgb(151, 151, 151);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.howf {
+  margin-top: 8vh;
+  margin-left: 58%;
+  color: rgb(249, 0, 50);
+  font-style: italic;
+  font-size: 280%;
+}
+
+.login-container {
+  width: 320px;
+  height: 45dvh;
+  padding: 20px;
+  background-color: none;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgb(179, 179, 179);
+  margin-left: 100vh;
+  margin-right: 50%;
+  margin-top: -2vh;
+}
+
+
+.login-form h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  margin-right: 7%;
+  font-style: italic;
+  margin-top: 5%;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: white;
+  margin-top: 5%;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid beige;
+  border-radius: 5px;
+  margin-top: 5%;
+}
+
+.enter {
+  margin-top: 5%;
+  margin-left: 32%;
+  color: white;
+  background-color: crimson;
+  border: none;
+  border-radius: 10px 10px 10px 10px;
+  width: 32%;
+  height: 4dvh;
+}
+
+@media (max-width: 900px) {
+  .body {
+    width: 100%;
+    height: 100%;
+  }
+  .login-container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

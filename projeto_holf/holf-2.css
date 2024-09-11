@@ -1,0 +1,173 @@
+
+@media (max-width: 1800px) {
+    .imgcam{
+        width: 100%;
+        height: 35vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+@media (max-height: 400px) {
+    .imgcam{
+        width: 100%;
+        height: 15vh;
+    }
+  }
+
+
+
+
+  @media (max-width: 2000px) {
+    .imgcam2{
+        width: 100%;
+        height: 38.8vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+  @media (max-height: 400px) {
+    .imgcam2{
+        width: 100%;
+        height: 12vh;
+    }
+  }
+
+
+
+  @media (max-width: 1800px) {
+    .imgcam3{
+        width: 100%;
+        height: 37.88vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+
+  @media (max-width: 1800px) {
+    .imgcam{
+        width: 100%;
+        height: 35vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+
+
+
+  @media (max-width: 1800px) {
+    .imgcam4{
+        width: 100%;
+        height: 37.86vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+
+  @media (max-height: 400px) {
+    .imgcam4{
+        width: 100%;
+        height: 15vh;
+    }
+  }
+
+
+
+  @media (max-width: 1800px) {
+    .imgcam5{
+        width: 100%;
+        height: 32.33vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+  @media (max-height: 400px) {
+    .imgcam5{
+        width: 100%;
+        height: 15vh;
+    }
+  }
+
+
+
+
+  @media (max-width: 1800px) {
+    .imgcam6{
+        width: 100%;
+        height: 35.3vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+
+  @media (max-height: 400px) {
+    .imgcam6{
+        width: 100%;
+        height: 15vh;
+    }
+  }
+
+
+
+
+  @media (max-width: 1800px) {
+    .imgcam7{
+        width: 100%;
+        height: 32.37vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+
+  @media (max-height: 400px) {
+    .imgcam7{
+        width: 100%;
+        height: 15vh;
+    }
+  }
+
+
+
+
+  @media (max-width: 1800px) {
+    .imgcam8{
+        width: 100%;
+        height: 32.29vh;
+    }
+    table,tr,td{
+        border: 1px solid black;
+        margin: auto;
+    }
+  }
+
+
+  @media (max-height: 400px) {
+    .imgcam8{
+        width: 100%;
+        height: 15vh;
+    }
+  }
+
